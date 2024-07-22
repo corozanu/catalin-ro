@@ -26,8 +26,8 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://catalin-ro.vercel.app/eu.jpg',
-  defaultPageCover: 'https://cdn.crz.ro/catalin.ro/images/eu.jpg',
+  defaultPageIcon: 'https://catalin-ro.vercel.app/eu2.jpg',
+  defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
