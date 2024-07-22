@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Cătălin Corozanu - Blog de tehnico-părerist',
-  domain: 'catalin.ro',
+  domain: 'catalin-ro.vercel.app',
   author: 'Cătălin Corozanu',
 
   // open graph metadata (optional)
