@@ -27,7 +27,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: https://cdn.crz.ro/catalin.ro/images/ctl-logo150x150.png,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
